@@ -7,6 +7,7 @@
   "author": "Sudip Mondal",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "child_process": "^1.0.2"
   }
 }
