@@ -1,13 +1,16 @@
 {
   "name": "@sudip-mondal-2002/positivity-js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Is the string positive in sense? This npm package can figure it out.",
   "main": "index.js",
-  "repository": "https://github.com/sudip-mondal-2002/positivity-js.git",
+  "repository": "https://github.com/sudip-mondal-2002/positivity-js",
   "author": "Sudip Mondal",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.7.2",
     "child_process": "^1.0.2"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
