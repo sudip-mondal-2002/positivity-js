@@ -13,7 +13,7 @@ or
 ```cmd
 yarn add positivity-js
 ```
-
+Find the ML notebook [here](https://gist.github.com/sudip-mondal-2002/8aba52d02c90e4163051e9a97bebd4d0).
 ## Usage
 
 ```sh
